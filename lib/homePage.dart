@@ -134,7 +134,7 @@ Widget buildCard({
   return Card(
     
     elevation: 5,
-    margin: const EdgeInsets.only(right: 16),
+    margin: const EdgeInsets.only(left: 16),
     shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(16)),
     child: SizedBox(
       width: 200,
